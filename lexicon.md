@@ -27,3 +27,29 @@ yé </br>
 óiro </br>
 yó </br>
 </details>
+
+<details>
+<summary>ven</summary>
+vená </br>
+venánt </br>
+vení </br>
+venínt </br>
+venú </br>
+venúnt </br>
+vené </br>
+venché </br>
+vencéme </br>
+venó </br>
+venchó </br>
+vencómo </br>
+venáera </br>
+venyá </br>
+veníeri </br>
+venyí </br>
+venúeru </br>
+venyú </br>
+venéire </br>
+venyé </br>
+venóiro </br>
+venyó </br>
+</details>
