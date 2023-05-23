@@ -16,10 +16,10 @@ céme </br>
 ó </br>
 chó </br>
 cómo </br>
-áera </br>
-yá </br>
 íeri </br>
 yí </br>
+áera </br>
+yá </br>
 úeru </br>
 yú </br>
 éire </br>
@@ -42,10 +42,10 @@ vencéme </br>
 venó </br>
 venchó </br>
 vencómo </br>
-venáera </br>
-venyá </br>
 veníeri </br>
 venyí </br>
+venáera </br>
+venyá </br>
 venúeru </br>
 venyú </br>
 venéire </br>
