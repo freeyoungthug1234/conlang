@@ -81,6 +81,58 @@ silyó </br>
 </details>
 
 <details>
+<summary>sivt</summary>
+sivtá </br>
+sivtánt </br>
+sivtí </br>
+sivtínt </br>
+sivtú </br>
+sivtúnt </br>
+sivté </br>
+sivtché </br>
+sivtcéme </br>
+sivtó </br>
+sivtchó </br>
+sivtcómo </br>
+sivtíeri </br>
+sivtyí </br>
+sivtáera </br>
+sivtyá </br>
+sivtúeru </br>
+sivtyú </br>
+sivtéire </br>
+sivtyé </br>
+sivtóiro </br>
+sivtyó </br>
+</details>
+
+<details>
+<summary>velt</summary>
+veltá </br>
+veltánt </br>
+veltí </br>
+veltínt </br>
+veltú </br>
+veltúnt </br>
+velté </br>
+veltché </br>
+veltcéme </br>
+veltó </br>
+veltchó </br>
+veltcómo </br>
+veltíeri </br>
+veltyí </br>
+veltáera </br>
+veltyá </br>
+veltúeru </br>
+veltyú </br>
+veltéire </br>
+veltyé </br>
+veltóiro </br>
+veltyó </br>
+</details>
+
+<details>
 <summary>ven</summary>
 vená </br>
 venánt </br>
